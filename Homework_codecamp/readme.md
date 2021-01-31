@@ -1,6 +1,9 @@
-codecamp#8
+### codecamp # 8
+-----------------------
 ปกรณ์ โปรยรุ่งโรจน์
+-----------------------
 
+โจทย์การบ้าน
 "Homework1"
 1. สร้างหน้า index.html เป็น homepage 
 - มีภาพที่แสดงความเป็นตัวเอง และ motto ประจำตัว
@@ -14,3 +17,11 @@ codecamp#8
 - ชื่อ-นามสกุล,​ ชื่อเล่น,เลขที่, ชื่อกลุ่ม,​ เบอร์โทร, site(github.io) 
 - มี link ไปยัง 2 หน้าที่เหลือ (index.html + profile.html)
 4. เมื่อเรียบร้อยแล้ว ให้ส่ง web site นี้ขึ้น github.io ของตัวเอง
+-----------------------
+
+ไฟล์การบ้านทื่ทำ
+index,Profile and friend 
+-----------------------
+Homework_codecamp/Html/index.html
+Homework_codecamp/Html/Profile.html
+Homework_codecamp/Html/friend.html
