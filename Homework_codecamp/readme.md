@@ -18,10 +18,9 @@
 - มี link ไปยัง 2 หน้าที่เหลือ (index.html + profile.html)
 4. เมื่อเรียบร้อยแล้ว ให้ส่ง web site นี้ขึ้น github.io ของตัวเอง
 -----------------------
-
 ไฟล์การบ้านทื่ทำ
 index,Profile and friend 
 -----------------------
-Homework_codecamp/Html/index.html
-Homework_codecamp/Html/Profile.html
-Homework_codecamp/Html/friend.html
+https://github.com/plakorp/Homework_codecamp_8/blob/main/Html/index.html
+https://github.com/plakorp/Homework_codecamp_8/blob/main/Html/Profile.html
+https://github.com/plakorp/Homework_codecamp_8/blob/main/Html/friend.html
